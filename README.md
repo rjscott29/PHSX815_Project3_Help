@@ -32,6 +32,8 @@ Best starting place:
 
 *****************
 
-What I would like help with is determining how to setup a function to determine how many cheater cards were used. As the gimme value is increased, the distribution moves to the right. Unfortunately, I don't believe the probability distribution is very straightfoward. I build my log-likelihood from experimental values of probability, not theoretical.
+What I would like help with is determining how to setup a function to determine how many cheater cards were used (which is the whole point of this project). As the gimme value is increased, the distribution moves to the right. Unfortunately, I don't believe the probability distribution is very straightfoward. I build my log-likelihood from experimental values of probability, not theoretical.
+
+I've added two images which are samples from 5 games and 25 games per set.
 
 Feel free to contact me with questions. I'll be happy to discuss. rjscott@ku.edu
